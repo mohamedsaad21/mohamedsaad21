@@ -17,10 +17,6 @@
 </h5>
 <br>
 
-<a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" alt="MohamedSaadDotNet" align="right" />
-</a>
-
 - 🎓 4th-year student at Faculty of Computers and Artificial Intelligence, Benha University
 - 🧑‍🎓 Computer Science Department
 - 🛠 Trainee at Digital Egypt Pioneers Initiative (DEPI)
